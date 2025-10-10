@@ -1,0 +1,5 @@
+homepage: "https://www.gimii.fr"
+documentation: "https://github.com/Gimii-solutions/gimii-gtm"
+versions:
+  - sha: 2bcf233b544d2e223590a927e159d6a9fe244a18
+    changeNotes: Initial release.
