@@ -32,6 +32,15 @@ The Gimii Consent Raiser template is designed to:
 - **Description**: Custom prefix for ads tags when integrating with Google Ads
 - **Example**: `my-site-prefix`
 
+### Ad server (Required)
+- **Field Name**: `adServer`
+- **Type**: Select
+- **Options**:
+  - `google-ads` - Google Ads
+  - `ms-monetize` - Microsoft Monetize (xandr)
+  - `actirise` - Actirise
+- **Description**: Determines which ad server to use
+
 ## Usage
 
 ### Basic Setup
@@ -110,3 +119,6 @@ See the LICENSE file for license information.
 - Google Ads server integration
 - Optional ads prefix configuration
 - Comprehensive unit testing
+
+### Version 1.1.0
+- Add ad server field
