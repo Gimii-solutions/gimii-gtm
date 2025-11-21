@@ -1,6 +1,8 @@
 homepage: "https://www.gimii.fr"
 documentation: "https://github.com/Gimii-solutions/gimii-gtm"
 versions:
+  - sha: cad72ab90311bd4795382474632ee43a516bf061
+    changeNotes: Fix template name
   - sha: 973448fe0a9d51fb2f4657c0b381ca68bf3431b0
     changeNotes: Add adServer field
   - sha: 2bcf233b544d2e223590a927e159d6a9fe244a18
