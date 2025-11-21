@@ -122,3 +122,6 @@ See the LICENSE file for license information.
 
 ### Version 1.1.0
 - Add ad server field
+
+### Version 1.1.1
+- Fix template name

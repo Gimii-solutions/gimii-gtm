@@ -12,7 +12,7 @@ ___INFO___
   "type": "TAG",
   "id": "cvt_NFBXC",
   "version": 1,
-  "displayName": "Gimii - Consent raiser - Dev",
+  "displayName": "Gimii - Consent raiser",
   "categories": [
     "TAG_MANAGEMENT",
     "PERSONALIZATION"
